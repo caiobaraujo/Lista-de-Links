@@ -1,0 +1,7 @@
+                                              Projeto em NextJS, GraphQL e Prisma
+
+Next - É um Framework do React. Aumenta o poder do React para fazer coisas como Server Side Rendering, que é montar a pagina no servidor o que é bom para SEO, pois o React é só uma div e os motores de busca nao indexam bem. O next renderiza é ja vem o html para os motores de busca analizarem.
+
+GraphQL - Graph Query Language - Linguagem de querys com grafos(tipo mapa mental). É uma alternativa ao RESTful para criar APIs. Só que ao inves de ter varios endpoints, tem um só em que personalizamos as requisicoes para pegar apenas o que queremos.
+
+Prisma - é um ORM(auxilia a trabalhar com banco de dados). Tem a ferramenta Migration que da para criar o banco de dados no código e depois replica no banco real 
